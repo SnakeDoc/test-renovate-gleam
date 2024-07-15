@@ -27,4 +27,4 @@ packages = [
 [requirements]
 gleam_stdlib = { version = ">= 0.34.0 and < 2.0.0" }
 gleeunit = { version = ">= 1.0.0 and < 2.0.0" }
-wisp = { version = ">= 0.15.0 and < 1.0.0"}
+wisp = { version = "0.15.0" }
