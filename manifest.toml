@@ -29,7 +29,7 @@ packages = [
 ]
 
 [requirements]
-gleam_stdlib = { version = ">= 0.38.0 and < 1.0.0" }
-gleeunit = { version = ">= 1.0.0 and < 2.0.0" }
-jackson = { version = ">= 1.0.0 and < 2.0.0" }
-wisp = { version = ">= 0.14.0 and < 1.2.1" }
+gleam_stdlib = { version = "== 0.39.0" }
+gleeunit = { version = "== 1.2.0" }
+jackson = { version = "== 1.0.0" }
+wisp = { version = "== 1.2.0" }
